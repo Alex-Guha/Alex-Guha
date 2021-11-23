@@ -1,4 +1,3 @@
-I'm too lazy to go beyond the basic Github intro.
 - Hi, I’m @Alex-Guha
 - I’m interested in AI
 - I’m currently playing around with neural networks
