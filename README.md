@@ -1,4 +1,4 @@
 - Hi, I’m @Alex-Guha
-- I’m interested in AI
-- I’m currently playing around with neural networks
-- How to reach me: alexandersguha@gmail.com
+- I’m fascinated by machine learning and computation neuroscience.
+- Recently, I have been looking into computational cognitive science, cognitive architectures, biologically plausible neural networks.
+- I subscribe to the ultimate goal of Artificial General Intelligence
